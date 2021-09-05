@@ -514,12 +514,12 @@ body {width: 92%; margin: 0 auto} /* Center page without wrapper */
 }
 
 .label-success {
-  background-color: #5cb85c;
+  background-color: #450dac;
 }
 
 .label-success[href]:hover,
 .label-success[href]:focus {
-  background-color: #449d44;
+  background-color: #12024e;
 }
 
 .label-warning {
